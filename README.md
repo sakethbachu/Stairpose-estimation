@@ -1,7 +1,7 @@
 # Stairpose-estimation
 
 ## Description
-Pose estimation has been one of the most important tasks for mobile robots. However, there is no robust solution for estimating stair pose. In this project we aim to build a robust end-to-end pipeline to estimate pose of a staircase and hence use it for effective motion planning in mobile robots.
+Pose estimation has been one of the most important tasks for mobile robots. However, there is no robust solution for estimating pose of a staircase. In this project we aim to build a robust end-to-end pipeline to estimate pose of a staircase and hence use it for effective motion planning in mobile robots.
 
 ## Note
 This repository is constantly being updated.
